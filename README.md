@@ -1,4 +1,2 @@
 ### DEACOURSE STARTER-TEMPLATE-WITH-NEW-AGE-LIB
-
-<p>projek ini hanya untuk kebutuhan online course yang diadakan tanggal 29 Mei 2022</p>
-<small><i>thanks a lot - credit to new-age theme</i></small>
+<h1> INI BRANCH DEV </h1>
